@@ -1,0 +1,10 @@
+C:\Users\Tec_Inf_01\source\repos\P50\P50\bin\Debug\P50.exe.config
+C:\Users\Tec_Inf_01\source\repos\P50\P50\bin\Debug\P50.exe
+C:\Users\Tec_Inf_01\source\repos\P50\P50\bin\Debug\P50.pdb
+C:\Users\Tec_Inf_01\source\repos\P50\P50\obj\Debug\P50.csprojAssemblyReference.cache
+C:\Users\Tec_Inf_01\source\repos\P50\P50\obj\Debug\P50.Form1.resources
+C:\Users\Tec_Inf_01\source\repos\P50\P50\obj\Debug\P50.Properties.Resources.resources
+C:\Users\Tec_Inf_01\source\repos\P50\P50\obj\Debug\P50.csproj.GenerateResource.cache
+C:\Users\Tec_Inf_01\source\repos\P50\P50\obj\Debug\P50.csproj.CoreCompileInputs.cache
+C:\Users\Tec_Inf_01\source\repos\P50\P50\obj\Debug\P50.exe
+C:\Users\Tec_Inf_01\source\repos\P50\P50\obj\Debug\P50.pdb
